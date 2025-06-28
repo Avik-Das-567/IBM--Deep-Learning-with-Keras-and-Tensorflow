@@ -28,7 +28,7 @@ After completing this project, I will be able to:
 ---
 
 ### Instructions
-To achieve the above objectives, I have completed the following tasks:
+To achieve the above objectives, I have completed the following tasks in the Jupyter Notebook :
 - **Task 1:** Print the version of TensorFlow
 - **Task 2:** Create a **`test_generator`** using the **`test_datagen`** object
 - **Task 3:** Print the length of the **`train_generator`**
