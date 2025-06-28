@@ -25,7 +25,7 @@ After completing this project, I will be able to:
 - Fine-tune a pre-trained model to improve classification accuracy
 - Evaluate the model's performance using appropriate metrics
 - Visualize model predictions on test data
----
+--- 
 
 ### Instructions
 To achieve the above objectives, I have completed the following tasks in the Jupyter Notebook :
