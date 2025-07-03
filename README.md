@@ -1,6 +1,4 @@
 # IBM - Deep Learning with Keras and Tensorflow (Coursera)
-### Course Link : https://www.coursera.org/learn/building-deep-learning-models-with-tensorflow
----
 ### Final Project Overview : Classify Waste Products Using Transfer Learning
 ---
 ## Project Scenario
@@ -41,6 +39,8 @@ To achieve the above objectives, you will complete the following tasks :
 
 Let's start the project by developing and deploying a trained model that classifies waste images into recyclable and organic categories.
 
+---
+### Course Link : https://www.coursera.org/learn/building-deep-learning-models-with-tensorflow
 ---
 ### Course Certificate : https://www.coursera.org/account/accomplishments/verify/G7CY6Q7TA8C1
 ---
